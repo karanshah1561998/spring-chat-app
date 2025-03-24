@@ -1,7 +1,2 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
-target/
-*.jar
-.idea/
-*.iml
-*.log
