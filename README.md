@@ -1,4 +1,4 @@
-# 💬 Spring Boot WebSocket Chat App
+# 💬 Spring Boot Chat App
 
 A real-time chat application built with **Spring Boot**, **WebSockets**, and **STOMP messaging protocol**. This project demonstrates how to build a scalable backend for a chat system with real-time communication capabilities.
 
