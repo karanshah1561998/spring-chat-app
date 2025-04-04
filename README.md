@@ -24,17 +24,17 @@ Access the live app here: [Spring Boot Chat App](https://spring-chat-app.onrende
 - Docker (for containerized deployment)
 
 ### Setup
-1. **Clone the Repository**
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/karanshah1561998/spring-chat-app.git
    cd spring-chat-app
 
-2. **Run Locally (Dev Mode)**
+2. **Run Locally (Dev Mode):**
    ```bash
    ./mvnw spring-boot:run
    Then open your browser at:📍 http://localhost:8080
 
-3. **Run with Docker**
+3. **Run with Docker:**
    ```bash
    ./mvnw clean package
    docker build -t spring-chat-app .
